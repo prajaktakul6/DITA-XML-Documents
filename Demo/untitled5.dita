@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="untitled5">
+    <title>What is Topic Head?</title>
+    <shortdesc>This section gives an idea about what the Topic Head is.</shortdesc>
+    <conbody>
+        <p>A topic head represnts the title of the topic. It contains references to the tasks and
+            concepts. </p>
+        <p>However, one should avoid creating a topic head as it can result into an inconsistent
+            output.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_the_numbers_using_calculator_app">
+    <title>Adding the numbers using Calculator app</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <prereq id="prereq_og5_rhn_jsb">Unlock your iPhone.</prereq>
+        <context>Here you will find the steps on how to add numbers.<p/></context>
+        <steps>
+            <step>
+                <cmd>Open the Calculator app.</cmd>
+            </step>
+            <step>
+                <cmd>Tap the first number you want to add.</cmd>
+            </step>
+            <step>
+                <cmd>Tap the + sign.</cmd>
+            </step>
+            <step>
+                <cmd>Tap the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Tap the = button.</cmd>
+            </step>
+        </steps>
+        <result id="result_l5d_f3n_jsb">The result appears on the screen.</result>
+        <example id="example_dvs_h3n_jsb">3+2=5</example>
+    </taskbody>
+</task>

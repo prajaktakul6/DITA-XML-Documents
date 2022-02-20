@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_a_dita_task">
+    <title>What is a DITA Task</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>A DITA task is a sequential representation of steps to accomplish a certain goal. </p>
+        <p>DITA task contains number of steps which answers to "How do I?" question of a user. After
+            following the step-by-step instructions given in this section, a user should get desired
+            output.</p>
+    </conbody>
+</concept>

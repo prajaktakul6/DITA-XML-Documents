@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_a_dita_task">
+    <title>Creating a DITA task</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <prereq id="prereq_akg_s13_qsb">You must knoe your audience before writing about the
+            task.</prereq>
+        <context>This topic walks you through the steps of creating a DITA task.<p/></context>
+        <steps>
+            <step>
+                <cmd>Click New <image href="../Screenshots/DITA:XML_Doc/New_icon.png" width="25"
+                        height="20" id="image_byx_w13_qsb"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Type in task and select the template for DITA/Task.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the title.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to the folder where you want to keep all the DITA files.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Create</b>.<image href="../Creating%20DITA%20task.png" width="400"
+                        height="350" id="image_jcg_dc3_qsb"/></cmd>
+            </step>
+            <step>
+                <cmd>Save your work.</cmd>
+            </step>
+        </steps>
+        <result id="result_jlh_fj3_qsb">As a result of the steps given above you will be able to
+            create a DITA task under the DITA Maps Manager.<image href="../DITA_task%20created.png"
+                id="image_gtr_5j3_qsb" height="200"/></result>
+    </taskbody>
+</task>

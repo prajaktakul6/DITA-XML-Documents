@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen XML Author/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen XML Author/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen XML Author/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Author/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Author/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/prajaktakulkarni/Desktop/Demo/dita_map.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">DITA_map</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">DITA_map</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_demo"><resourceid appid="task_demo" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">How to use the calculator app on the iPhone</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+</opentopic:map><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="task_demo" oid="task_demo" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "><b class="+ topic/ph hi-d/b ">How to use the calculator app on the iPhone</b></ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_1_Connect_42_prereq_uyt_cy3_jsb" nd:nd-id="prereq_uyt_cy3_jsb">
+            <p class="- topic/p ">Ensure that the Calculator app is installed in phone.</p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">
+                <ul class="- topic/ul " id="unique_1_Connect_42_ul_ujs_jz3_jsb" nd:nd-id="ul_ujs_jz3_jsb">
+                    <li class="- topic/li ">Add numbers</li>
+                    <li class="- topic/li ">Subtract numbers</li>
+                    <li class="- topic/li ">Multiply numbers</li>
+                    <li class="- topic/li ">Divide numbers</li>
+                </ul>
+            </p>
+            <ol class="- topic/ol " id="unique_1_Connect_42_ol_j2h_f1j_jsb" nd:nd-id="ol_j2h_f1j_jsb">
+                <li class="- topic/li ">Unlock your iPhone.</li>
+                <li class="- topic/li ">Open the Calculator app.</li>
+                <li class="- topic/li ">Enter the first number.</li>
+                <li class="- topic/li ">Tap operator <b class="+ topic/ph hi-d/b ">+</b> for adding, <b class="+ topic/ph hi-d/b ">-</b> for subtraction, * for
+                    multiplication, or <b class="+ topic/ph hi-d/b ">/</b> for division.</li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">Enter the another number.</p>
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Note</b>: Tap <b class="+ topic/ph hi-d/b ">C</b> button to delete the entered value.</p>
+                </li>
+                <li class="- topic/li ">Tap the <b class="+ topic/ph hi-d/b ">=</b> button.</li>
+            </ol>
+        </context>
+    </taskbody>
+</task></map>

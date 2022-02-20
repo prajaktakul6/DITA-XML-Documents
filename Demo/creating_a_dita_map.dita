@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_dita_map">
+    <title>Creating a DITA Map</title>
+    <shortdesc>This topic describes how to create a DITA map.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_emj_2yz_psb">To create a DITA Map, you must decide the topic to write the
+            tasks about.</prereq>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to <b>File</b>> Click <b>New </b>or Click <b> </b>
+                    <image href="../Screenshots/DITA:XML_Doc/New_icon.png" width="30" height="30"
+                        id="image_oyd_ck3_qsb"/></cmd>
+            </step>
+            <step>
+                <cmd>To choose a file template, type in map.</cmd>
+            </step>
+            <step>
+                <cmd>Select the type of map you want to create.</cmd>
+            </step>
+            <step>
+                <note id="note_ly4_pjg_qsb">Create a new folder to keep all the project
+                    files.</note>
+                <cmd>Navigate to the folder where you want to save the file.</cmd>
+            </step>
+            <step>
+                <cmd>Select editor as <b>DITA maps editor</b>.</cmd>
+            </step>
+        </steps>
+        <result id="result_jsl_vjg_qsb">As a reault of the steps given above, you will be able to
+            see the DITA map under <b>DITA Maps Manager</b>.<image
+                href="../DITA%20Map%20created.png" width="300" height="100" id="image_sqw_mk3_qsb"
+            /></result>
+    </taskbody>
+</task>

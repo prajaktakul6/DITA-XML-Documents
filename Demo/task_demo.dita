@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_demo">
+    <title><b>How to use the calculator app on the iPhone</b></title>
+    <shortdesc/>
+    <taskbody>
+        <prereq id="prereq_uyt_cy3_jsb">
+            <p>Ensure that the Calculator app is installed in phone.</p>
+        </prereq>
+        <context>
+            <p>Using this app, you can do the following tasks:<ul id="ul_ujs_jz3_jsb">
+                    <li>Add numbers</li>
+                    <li>Subtract numbers</li>
+                    <li>Multiply numbers</li>
+                    <li>Divide numbers</li>
+                </ul></p>
+            <ol id="ol_j2h_f1j_jsb">
+                <li>Unlock your iPhone.</li>
+                <li>Open the Calculator app.</li>
+                <li>Enter the first number.</li>
+                <li>Tap operator <b>+</b> for adding, <b>-</b> for subtraction, * for
+                    multiplication, or <b>/</b> for division.</li>
+                <li>
+                    <p>Enter the another number.</p>
+                    <p><b>Note</b>: Tap <b>C</b> button to delete the entered value.</p>
+                </li>
+                <li>Tap the <b>=</b> button.</li>
+            </ol>
+        </context>
+        <result id="result_cvj_mbj_jsb">
+            <p>User can see the result on the screen.</p>
+        </result>
+    </taskbody>
+</task>

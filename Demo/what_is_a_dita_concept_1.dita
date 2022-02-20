@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_a_dita_concept_1">
+    <title>What is a DITA Concept?</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>DITA Concept gives an information about a partiular topic and its background. Concept
+            halps users to understand and map their knowledge and understanding in order to perform
+            the tasks. </p>
+        <p>DITA Concept answers to "What is?" type of questions of a user. Before performing the
+            steps, it's better to know the concept to understand the product better.</p>
+    </conbody>
+</concept>

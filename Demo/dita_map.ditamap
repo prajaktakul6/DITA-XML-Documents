@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Working with the Calculator tool</title>
+    <topicref href="task_demo.dita"/>
+    <topicref href="adding_the_numbers_using_calculator_app.dita"/>
+</map>

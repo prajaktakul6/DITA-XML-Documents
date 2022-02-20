@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_a_dita_concept">
+    <title>Creating a DITA Concept</title>
+    <shortdesc>This section walks you through the steps on how to create a DITA concept.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_pfw_rn3_qsb">In order to write about a DITA concept about a product or
+            task, you must have knowledge about your product or a task. </prereq>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Right click on the Topic Head><b>Append child</b>><b>New</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Type in task and select the template for DITA/Task.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the title.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to the folder where you want to keep all the DITA files.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Create</b>.<image href="../DITA%20concept%20created.png"
+                        id="image_xhm_pp3_qsb" height="400"/></cmd>
+            </step>
+            <step>
+                <cmd>Save your work.</cmd>
+            </step>
+        </steps>
+        <result id="result_flm_sp3_qsb">As a result of the steps given above you will be able to
+            create a DITA concept under the DITA Maps Manager.<image href="../DITA_concept_Ex.png"
+                id="image_ohb_dq3_qsb" width="300"/></result>
+    </taskbody>
+</task>

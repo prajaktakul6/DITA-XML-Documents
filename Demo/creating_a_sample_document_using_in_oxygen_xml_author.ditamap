@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Creating a sample document using Oxygen XML Author</title>
+    <topichead navtitle="DITA MAP">
+        <topicref href="creating_dita_map.dita"/>
+        <topicref href="what_is_a_dita_map.dita"/>
+    </topichead>
+    <topichead navtitle="Inserting Topic Head"/>
+    <topichead navtitle="Creating DITA/TASK"/>
+</map>

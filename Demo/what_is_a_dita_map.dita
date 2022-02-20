@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_a_dita_map">
+    <title>What is a DITA map?</title>
+    <shortdesc>This section gives an overvies of a DITA map.</shortdesc>
+    <conbody>
+        <p>A DITA map is a collection of topics assembled into a sequence and hierarchy. The
+            hierarchy represnts a parent-child relationship.</p>
+        <p>A dita map file has an extension as <i>.ditamap</i>. DITA map describes the hierarchy and
+            the order of its topics. A DITA map doesn't contain any content, instead it can contain
+            a reference to the other topics.</p>
+    </conbody>
+</concept>

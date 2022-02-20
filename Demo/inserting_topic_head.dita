@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="inserting_topic_head">
+    <title>Inserting Topic Head</title>
+    <shortdesc>This topic gives an overview about inserting a Topic Head in a DITA map.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_bzg_rvh_qsb">Before creating a topic head, you must create a DITA
+            map.</prereq>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Right click on the DITA map which you have created.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Append Child</b> ><b>Topic Head</b>.<b>Insert Topic Head</b> window
+                    appears.</cmd>
+                <stepresult>
+                    <p><b>Insert Topic Head</b> window appears.</p>
+                </stepresult>
+            </step>
+            <step>
+                <cmd>Enter <b>Navigation title</b>.<image
+                        href="../Screenshots/DITA:XML_Doc/Insert%20Topic%20Head.png" width="500"
+                        height="400" id="image_zm1_fvh_qsb"/></cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Insert and close</b>.</cmd>
+            </step>
+        </steps>
+        <result id="result_yhc_5vh_qsb">As a result of the steps given above, you will be able to
+            create a Topic Head under DITA Map.</result>
+        <example id="example_v2n_wwh_qsb"><image href="../Topic%20head%20created.png"
+                id="image_szf_rwh_qsb" height="200"/></example>
+    </taskbody>
+</task>
