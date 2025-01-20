@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="start-mazda-car">
+    <title>How to Start a Mazda CX-5 Car</title>
+    <body>
+        <section>
+            <title>Introduction</title>
+            <p>This guide provides step-by-step instructions for starting your Mazda CX-5, ensuring a safe and smooth process. Follow the steps below carefully.</p>
+        </section>
+
+        <section>
+            <title>Prerequisites</title>
+            <p>Before starting your Mazda car, ensure the following:</p>
+            <ul>
+                <li>You have the correct key or key fob for the vehicle.</li>
+                <li>The car battery is charged.</li>
+                <li>The gear is in <b>Park</b> or <b>Neutral</b> (for manual transmissions).</li>
+                <li>The parking brake is engaged.</li>
+            </ul>
+        </section>
+
+        <section>
+            <title>Steps to Start the Car</title>
+            <steps>
+                <step>
+                    <cmd>1. Ensure the Mazda CX-5 key fob is inside the vehicle.</cmd>
+                    <info>If your Mazda uses a push-button start, the key fob must be detected inside the car.</info>
+                </step>
+                <step>
+                    <cmd>2. Press the brake pedal firmly.</cmd>
+                    <info>For manual transmissions, press the clutch pedal as well.</info>
+                </step>
+                <step>
+                    <cmd>3. Press and hold the engine start/stop button on your Mazda CX-5.</cmd>
+                    <info>The engine should start immediately. If it does not, refer to the troubleshooting section below for the Mazda CX-5.</info>
+                </step>
+                <step>
+                    <cmd>4. Release the parking brake if you are ready to drive.</cmd>
+                    <info>Ensure your seatbelt is fastened before moving the vehicle.</info>
+                </step>
+            </steps>
+        </section>
+
+        <section>
+            <title>Troubleshooting</title>
+            <p>If the car does not start, check the following:</p>
+            <ul>
+                <li>Ensure the key fob battery is not depleted.</li>
+                <li>Verify the car battery is charged.</li>
+                <li>Ensure the gear is in <b>Park</b> or <b>Neutral</b>.</li>
+                <li>If the issue persists, consult your Mazda owner’s manual or contact a Mazda service center.</li>
+            </ul>
+        </section>
+
+        <section>
+            <title>Safety Precautions</title>
+            <p>Always follow these safety precautions when starting your Mazda car:</p>
+            <ul>
+                <li>Do not press the accelerator while starting the car.</li>
+                <li>Ensure the area around the vehicle is clear of obstacles.</li>
+                <li>Never start the car in an enclosed space without proper ventilation to avoid carbon monoxide buildup.</li>
+            </ul>
+        </section>
+
+    </body>
+</topic>
