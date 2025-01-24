@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_return_an_item_on_amzon">
+    <title>How to Return an Item on Amzon</title>
+    <taskbody>
+        <context>Learn how to return an item purchased on Amazon using the website or mobile
+            app.</context>
+        <steps>
+            <step>
+                <cmd>Go to the Amazon website (<xref href="https://www.amazon.com" format="html"
+                        scope="external">www.amazon.com</xref>) or open the Amazon mobile app. </cmd>
+                <info>Log in to your Amazon account if you are not already signed in.</info>
+            </step>
+            <step>
+                <cmd>Navigate to <b>Your Orders</b>.</cmd>
+                <info>
+                    <p>On the website, click <b>Returns &amp; Orders</b> at the top right. In the
+                        app, tap the menu icon and select <b>Your Orders</b>.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Locate the item you want to return and click <b>Return or Replace
+                    Items</b>.</cmd>
+                <info>
+                    <p>If the option is unavailable, check the return eligibility period for the
+                        item.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Select the reason for the return from the dropdown menu.</cmd>
+                <info>
+                    <p>Choose the reason that best describes your situation, such as "Defective
+                        item" or "Wrong item sent."</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Choose your preferred return option.</cmd>
+                <info>
+                    <p>You can opt for a refund, replacement, or repair, depending on the item and
+                        return policy.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Choose how you will return the item.</cmd>
+                <info>
+                    <p>Select a return method, such as dropping it off at an authorized location or
+                        scheduling a pickup.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Print the return label and packing slip if required.</cmd>
+                <info>Follow the instructions provided by Amazon for packaging and labeling the
+                    item.</info>
+            </step>
+            <step>
+                <cmd>Package the item securely and attach the return label.</cmd>
+                <info>Ensure the item is packed according to Amazon's return instructions to avoid
+                    damage during transit.</info>
+            </step>
+            <step>
+                <cmd>Drop off the package at the selected location or have it picked up as
+                    scheduled.</cmd>
+                <info>Retain the return receipt or tracking number for reference.</info>
+            </step>
+            <step>
+                <cmd>Monitor your return status in <b>Your Orders</b>.</cmd>
+                <info>Amazon will update you on the status of your return and refund or
+                    replacement.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
